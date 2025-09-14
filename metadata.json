@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Shoot Generator",
+  "description": "Generate a series of professional photos from a base person photo and an accessory. The app creates a full-body shot, a product shot of the accessory, and a lifestyle image of the person using the accessory in a custom scene.",
+  "requestFramePermissions": []
+}
